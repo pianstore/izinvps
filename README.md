@@ -5,6 +5,7 @@
 ### ⚠️ UPDATE SCRIPT ⚠️
 <pre><code>wget -q https://raw.githubusercontent.com/pianstore/vip/main/update.sh && chmod +x update.sh && ./update.sh</code></pre>
 
+
 ### TESTED ON OS 
 - UBUNTU 20.04.05
 - DEBIAN 10
